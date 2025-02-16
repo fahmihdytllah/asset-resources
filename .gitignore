@@ -1,0 +1,9 @@
+# Apps
+jagoinvite/
+node_modules
+package-lock.json
+
+# Editor Config
+start.sh
+.prettierrc
+.vscode/
